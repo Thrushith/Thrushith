@@ -1,3 +1,4 @@
+
 - 👋 Hi, I’m Thrushith
 - 👀 I’m interested in Programming and ethical hacking
 - 🌱 I’m currently learning Html and other object oriented languages like python
