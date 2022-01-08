@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming and ethical hacking
 - 🌱 I’m currently learning Html and other object oriented languages like python
 - 💞️ Love to learn new stuff regarding ethical hacks 
-- 📫 How to reach me ---thrushith2003@gmail.com
+- 📫 How to reach me thrushith2003@gmail.com
 - 📖 Currently working on penetration tests
 
 <!---
