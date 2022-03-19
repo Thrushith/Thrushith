@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 - 💞️ Love to learn new stuff and new <b>Softwares</b> regarding <b><i>Pen Testing</i></b>
 - 📫 How to reach me thrushith2003@gmail.com
 - 📖 Currently working on <i>penetration tests</i>
-- 🕸️ To know more about me visit--https://bharathguntreddi3.github.io/Gganbu_Web_Tech/
+- 🕸️ To know more about me visit--https://bharathguntreddi3.github.io/Gganbu_Web_Tech
   
 <br><br>
 <h3 align="left">Connect with me:</h3>
