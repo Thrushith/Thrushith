@@ -5,6 +5,8 @@
 - 💞️ Love to learn new stuff regarding ethical hacks 
 - 📫 How to reach me thrushith2003@gmail.com
 - 📖 Currently working on penetration tests
+- 🕸️ To know more about me visit--https://bharathguntreddi3.github.io/Gganbu_Web_Tech/
+
 
 <!---
 Thrushith/Thrushith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
