@@ -44,5 +44,4 @@ You can click the Preview link to take a look at your changes.
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Thrushith&show_icons=true&theme=dark&locale=en" alt="Thrushith" /></p><br>
 
-
-!-- <<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Thrushith&theme=dark" alt="Thrushith" /></p>-->
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Thrushith&theme=dark" alt="Thrushith" /></p>
