@@ -16,5 +16,5 @@ You can click the Preview link to take a look at your changes.
 - 💞️ Love to learn new stuff and new <b>Updates</b> regarding <b><i>DATA SCIENCE</i></b>
 - 📫 How to reach me thrushithy@gmail.com
 - 📖 Currently working on <i><b>TABLEAU</b></i> <br>
-- 🕸️ To know more about me visit--https://bharathguntreddi3.github.io/Gganbu_Web_Tech
+- 🕸️ To know more about me visit--[https://thrushith.myportfolio](https://thrushith.github.io/portfolio-Thrushith/)
   
