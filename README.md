@@ -1,10 +1,5 @@
 
 
-
-<!---
-Thrushith/Thrushith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 #### <p align = "center"><h1 align = "center">Hey Everyone✌️, I'm Thrushith👋</h1></p>
 
 
