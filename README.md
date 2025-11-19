@@ -14,3 +14,4 @@
 - 📫 How to reach me thrushithy@gmail.com
 - 📖 Currently working on <i><b>TABLEAU</b></i> <br>
 - 🕸️ To know more about me visit--[https://thrushith.myportfolio](https://thrushith.github.io/portfolio-Thrushith/)
+
